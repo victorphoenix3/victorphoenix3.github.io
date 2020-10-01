@@ -123,6 +123,21 @@ disableHugoGeneratorInject = false
   #   maxWidth = "50px"
 
   # Social icons
+  [[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/JayTshrivastava"
+
+  [[params.social]]
+    name = "email"
+    url  = "mailto:gaurijove@gmail.com"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/victorphoenix3"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/jayatishrivastava/"
   
 
 [languages]

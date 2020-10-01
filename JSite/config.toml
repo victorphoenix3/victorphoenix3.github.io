@@ -1,4 +1,4 @@
-baseURL = "localhost"
+baseURL = "victorphoenix3.github.io"
 title   = "JAYATI SHRIVASTAVA"
 languageCode = "en-us"
 theme = "hello-friend-ng"
@@ -55,7 +55,7 @@ disableHugoGeneratorInject = false
 
   # Metadata mostly used in document's head
   # 
-  description = "Nice theme for homepages and blogs"
+  description = "Jayati's webspace"
   keywords = ""
   images = [""]
 

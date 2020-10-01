@@ -1,4 +1,3 @@
-[submodule "public"]
-	path = public
-	url = https://github.com/victorphoenix3/victorphoenix3.github.io.git
-	branch = master
+[submodule "JSite/themes/hello-friend-ng"]
+	path = JSite/themes/
+	url = https://github.com/rhazdon/hugo-theme-hello-friend-ng
